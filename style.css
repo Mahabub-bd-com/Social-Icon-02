@@ -1,0 +1,51 @@
+body{
+    font-family: poppins;
+    margin: 0%;
+}
+
+/* Social Icon */
+.fa-facebook {
+  font-size: 50px;
+  color: white;
+}
+
+.fa-youtube {
+  font-size: 50px;
+  color: #FF0000;
+  margin-left: 10px;
+}
+
+.fa-github {
+  font-size: 50px;
+  color: white;
+  margin-left: 10px;
+}
+
+.fa-twitter {
+  font-size: 50px;
+  color: white;
+  margin-left: 10px;
+}
+
+.fa-linkedin {
+  font-size: 50px;
+  color: white;
+  margin-left: 10px;
+}
+
+.fa-instagram {
+  font-size: 50px;
+  color: rgb(220, 17, 17);
+  margin-left: 10px;
+}
+
+/* Social Link Decoration */
+.social-link a i:hover{
+  background-color: #0DCAF0;
+  border-radius: 10px;
+  padding: 2px;
+}
+
+.social-link a{
+  text-decoration: none; /* এটার মানে হল social icon ar নিচের দাগ উঠে গেছে */
+}
